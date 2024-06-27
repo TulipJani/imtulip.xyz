@@ -1,8 +1,10 @@
-# React + Vite
+# how to setup
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+simple.
+get your api key if you're using ai in portfolio.
 
-Currently, two official plugins are available:
+clone the repo.
+make .env file in root directory.
+keep the content for .env like this: "VITE_API_KEY=your_api_key_here"
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+that's it. change persona in App.jsx. and you're good to go. (if you encounter any issues, let me know) peace.
