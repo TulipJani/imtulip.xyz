@@ -1,7 +1,7 @@
 import React, { useEffect, useRef, useState } from "react";
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
-const apiKey = import.meta.env.VITE_API_KEY;
+const apiKey = " AIzaSyBYkv9KPhVmX4Ro6VHGEh_tmepFKBj7uWo";
 let genAI;
 if (apiKey) {
   genAI = new GoogleGenerativeAI(apiKey);
